@@ -1,0 +1,2 @@
+[06-Feb-2015 02:30:16] PHP Fatal error:  Call to undefined function  wp_is_mobile() in /home2/sivarmun/public_html/test_final/wp-content/plugins/erik_hayder_videojs_oogee/video-js.php on line 3
+[06-Feb-2015 02:32:46] PHP Fatal error:  Call to undefined function  wp_is_mobile() in /home2/sivarmun/public_html/test_final/wp-content/plugins/erik_hayder_videojs_oogee/video-js.php on line 3
